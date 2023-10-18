@@ -1,3 +1,4 @@
+// Axios client instance configured for Ravepay API interactions.
 const axios = require('axios');
 
 const client = axios.create({
